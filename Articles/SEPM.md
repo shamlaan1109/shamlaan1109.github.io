@@ -1,9 +1,3 @@
-````markdown
-# 🧩 Object-Oriented Concepts  
-*Stage 1: Activity 1 - Software Engineering & Project Management*  
-
----
-
 ## 🌐 Introduction  
 
 Software development has evolved significantly over the years — from structured programming to object-oriented programming (OOP). The object-oriented paradigm provides a way to model complex systems more intuitively by representing real-world entities as **objects**. Each object combines **data** (attributes) and **behavior** (methods), leading to modular, maintainable, and scalable software systems.  
@@ -77,7 +71,7 @@ flowchart TD
     A[Problem Identification] --> B[Requirement Analysis]
     B --> C[Object Identification]
     C --> D[Class Design]
-    D --> E[Define Relationships (Inheritance, Association)]
+    D --> E[Define Relationships Inheritance, Association]
     E --> F[Implementation using OOP Language]
     F --> G[Testing & Integration]
     G --> H[Deployment & Maintenance]
