@@ -1,12 +1,3 @@
-
-````markdown
-# Role of OLAP in Decision Support System
-*Author: Shamlaan Sayyed  
-*Course: Data Warehousing and Data Mining*  
-*Date: October 2025*  
-
----
-
 ## 📘 Introduction
 
 In today’s data-driven world, organizations collect massive volumes of data every second—from transactions, customer interactions, web activities, and more. However, raw data alone has little value unless it can be transformed into actionable insights. This is where **Decision Support Systems (DSS)** and **Online Analytical Processing (OLAP)** come together.  
