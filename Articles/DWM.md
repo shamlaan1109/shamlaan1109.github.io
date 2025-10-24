@@ -30,15 +30,13 @@ Below is a simple flowchart depicting how OLAP fits into the overall Decision Su
 
 ```mermaid
 flowchart TD
-    A[Operational Databases] --> B[ETL Process (Extract, Transform, Load)]
+    A[Operational Databases] --> B[ETL Process Extract, Transform, Load]
     B --> C[Data Warehouse]
     C --> D[OLAP Engine]
     D --> E[Decision Support System Interface]
     E --> F[Managers / Analysts / Business Users]
     
-    style A fill:#f9f,stroke:#333,stroke-width:1px
-    style D fill:#bbf,stroke:#333,stroke-width:1px
-    style F fill:#bfb,stroke:#333,stroke-width:1px
+
 ````
 
 **Explanation:**
