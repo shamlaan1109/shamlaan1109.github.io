@@ -71,7 +71,7 @@ flowchart TD
     A[Problem Identification] --> B[Requirement Analysis]
     B --> C[Object Identification]
     C --> D[Class Design]
-    D --> E[Define Relationships (Inheritance, Association)]
+    D --> E[Define Relationships Inheritance, Association]
     E --> F[Implementation using OOP Language]
     F --> G[Testing & Integration]
     G --> H[Deployment & Maintenance]
