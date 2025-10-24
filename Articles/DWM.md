@@ -1,7 +1,4 @@
 
-
-## ✅ Markdown Code (copy entire section below)
-
 ````markdown
 # Role of OLAP in Decision Support System
 *Author: Shamlaan Sayyed  
