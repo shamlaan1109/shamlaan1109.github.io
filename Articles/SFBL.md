@@ -1,4 +1,3 @@
-````markdown
 # Assertiveness vs Adaptability: Which Matters More in Solving Group Problems?
 
 In today's fast-paced and interconnected world, teamwork has become an essential skill for personal and professional success. While working in groups, two personality traits often come into play: **assertiveness** and **adaptability**. But when it comes to solving group problems, which is more important? This article explores the roles of assertiveness and adaptability, their benefits, and how balancing the two can lead to effective problem-solving.
@@ -72,7 +71,7 @@ While both assertiveness and adaptability are valuable, neither alone is suffici
 
 ---
 
-*Author: Your Name*
+*Author: Shamlaan Sayyed
 *Date: 2025-10-24*
 
 ```
